@@ -8,3 +8,15 @@ body {
 	width: 75%;
 	margin: 10% auto;
 }
+
+button {
+	outline: 0 !important;
+}
+
+button:first-of-type {
+	margin-right: 20px;
+}
+
+.glyphicon {
+	margin: 0 8px;
+}
