@@ -17,6 +17,11 @@ button:first-of-type {
 	margin-right: 20px;
 }
 
+.btn {
+	font-size: 18px;
+	padding: 8px 14px;
+}
+
 .glyphicon {
 	margin: 0 8px;
 }
