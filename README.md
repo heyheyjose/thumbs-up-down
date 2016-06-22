@@ -1,3 +1,9 @@
+#### Up or Down Vote Buttons
+
+A component to show up and down votes built with React.
+
+![](https://github.com/heyheyjose/thumbs-up-down/raw/master/screenshots/updown.png)
+
 ##### Requirements / Set Up:
 
 If you don't have Browserify, Watchify, or Babel already installed globally, first do the following:
