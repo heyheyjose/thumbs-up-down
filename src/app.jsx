@@ -23,9 +23,9 @@ var Vote = React.createClass({
 
 	render: function () {
 		return (
-			<div>
+			<div className="container">
 				<button className="btn btn-success btn-large" onClick={this.awesomeCount}>
-					Awesome!
+					Yay!
 					<i className="glyphicon glyphicon-thumbs-up"></i>
 					{this.state.awesome}
 				</button>

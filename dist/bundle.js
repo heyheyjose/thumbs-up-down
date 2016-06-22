@@ -19867,11 +19867,11 @@ var Vote = React.createClass({
 	render: function render() {
 		return React.createElement(
 			"div",
-			null,
+			{ className: "container" },
 			React.createElement(
 				"button",
 				{ className: "btn btn-success btn-large", onClick: this.awesomeCount },
-				"Awesome!",
+				"Yay!",
 				React.createElement("i", { className: "glyphicon glyphicon-thumbs-up" }),
 				this.state.awesome
 			),

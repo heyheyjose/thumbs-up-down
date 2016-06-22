@@ -13,12 +13,9 @@ button {
 	outline: 0 !important;
 }
 
-button:first-of-type {
-	margin-right: 20px;
-}
-
 .btn {
 	font-size: 18px;
+	margin: 25px;
 	padding: 8px 14px;
 }
 
